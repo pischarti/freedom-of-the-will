@@ -6,23 +6,6 @@
 
 ---
 
-## Publication Information
-
-- **Copyright:** © 2010–2015 All rights reserved. Jonathan Bennett
-- **First launched:** September 2006
-- **Last amended:** December 2007
-- **Original Publication:** 1754
-
-**Editorial Notes:**
-- [Brackets] enclose editorial explanations
-- Small ·dots· enclose material that has been added, but can be read as though it were part of the original text
-- Occasional •bullets, and also indenting of passages that are not quotations, are meant as aids to grasping the structure of a sentence or a thought
-- Every four-point ellipsis . . . indicates the omission of a brief passage that seems to present more difficulty than it is worth
-- Larger omitted passages are reported on between brackets, in normal-sized type
-- Edwards's discussions of and quotations from Biblical passages are omitted, as they add nothing to the book's *philosophical* value
-
----
-
 ## Table of Contents
 
 ### Part I: Terms and Topics that will come up in the rest of the work
