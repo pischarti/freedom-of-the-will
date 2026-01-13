@@ -2,9 +2,9 @@
 
 Here's a breakdown of its core arguments:
 
-- **Critique of Edwards:** [1-Critique-of-Edwards.md](../1-Critique-of-Edwards.md)
-- **Reconciling God's Sovereignty & Human Freedom:** [2-God-Sovereignty-Human-Freedom.md](../2-God-Sovereignty-Human-Freedom.md)
-- **Human Nature & Sin:** [3-Human-Nature-Sin.md](../3-Human-Nature-Sin.md)
-- **Basis for Morality:** [4-Basis-for-Morality.md](../4-Basis-for-Morality.md)
+- **Critique of Edwards:** [1-Critique-of-Edwards.md](./1-Critique-of-Edwards.md)
+- **Reconciling God's Sovereignty & Human Freedom:** [2-God-Sovereignty-Human-Freedom.md](./2-God-Sovereignty-Human-Freedom.md)
+- **Human Nature & Sin:** [3-Human-Nature-Sin.md](./3-Human-Nature-Sin.md)
+- **Basis for Morality:** [4-Basis-for-Morality.md](./4-Basis-for-Morality.md)
 
 In essence, Whedon's work is a classic defense of Arminian theology, arguing that without libertarian free will, both human moral accountability and a perfectly just God are undermined.
